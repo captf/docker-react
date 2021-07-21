@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <div>Look mum, no hands!</div>
+      <div>Learn react</div>
     </div>
   );
 }
